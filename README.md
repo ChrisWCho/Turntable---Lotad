@@ -29,6 +29,7 @@ The Pokémon Lotad. Here's the CAD.
 <img width="3072" height="4080" alt="PXL_20260919_070045899 MP" src="https://github.com/user-attachments/assets/333b0c59-3959-4101-8495-d000145f2258" />
 
 # I had some keyboard switches laying around so I designed them into the project.
+I designed the buttons on the eyes and mouth for the rotation control.
 <img width="4080" height="3072" alt="PXL_20260919_201237026" src="https://github.com/user-attachments/assets/a78339b3-0305-4d1e-b02c-3d3f2d5aead8" />
 
 So despite being a simple project, there were some moving parts to it, I had to do some soldering to get all the connections together as well as powering everything.
